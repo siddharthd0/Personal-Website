@@ -1,11 +1,9 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
+company: 'Aeolus '
 position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+startDate: 'January 2022'
+endDate: 'Febuary 2022 2022'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Me and 3 other teammates worked on a project called Aeolus. An app to check pollution in your area.

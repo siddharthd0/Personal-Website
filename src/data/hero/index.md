@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
-title: 'Frontend Developer'
-subtitle: 'I am the Great Gatsby'
-content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+title: 'Student & Developer'
+subtitle: 'I am Siddharth Duggal'
+content: 'Hey! I am Siddharth Duggal, currently a junior in high school. I am a developer who codes in languages such as JavaScript, Java, and HTML. If you would like to learn more about me, be sure to click on the buton below!'
 linkTo: '/resume/'
 linkText: 'View My Profile'
 ---

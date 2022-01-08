@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'Rocky Mountain High School'
+degree: 'High School Diploma'
+startDate: 'August 2019'
+endDate: 'Present (Will graduate in May 2023)'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I am a junior currently.
